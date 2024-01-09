@@ -2,7 +2,7 @@
 
 This is a personal study project. Based on some very good projects，Inductive synthesis.<br>
 The project used Universal RenderPipeline in Unity.<br>
-Shader GUI is used LWGUI,Please refer to the link below.<br>
+Shader GUI used LWGUI,Please refer to the link below.<br>
 -> https://github.com/JasonMa0012/LWGUI <br>
 Example project using Unity version 2022.3.14.<br>
 
